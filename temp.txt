@@ -1,3 +1,5 @@
+test in ssh with ssh-agent disabled
+
 test in ssh with ssh identifier added
 
 test in local
